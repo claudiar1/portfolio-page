@@ -4,7 +4,7 @@
   "description": "Completed as part of Treehouse FSJS Techdegree",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
   "author": "Claudia Robinson",
   "license": "ISC",
