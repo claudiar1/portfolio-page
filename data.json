@@ -1,0 +1,68 @@
+{
+  "projects": [
+    {
+      "id": "0",
+      "project_name": "Random Parks & Recreation Quote Generator",
+      "description": "Randomly generates a quote from Parks & Recreation and a new background color on button click or every 20 seconds - whichever comes first. ",
+      "technologies": ["JavaScript", "HTML", "CSS"],
+      "live_link": "https://claudiar1.github.io/parks-and-rec-quote-generator/",
+      "github_link": "https://github.com/claudiar1/parks-and-rec-quote-generator",
+      "landing_img_url": "/static/images/proj-1-landing.png",
+      "image_urls": [
+        "/static/images/proj-1-view1.png",
+        "/static/images/proj-1-view2.png"
+      ]
+    },
+    {
+      "id": "1",
+      "project_name": "Pagination and Filtering",
+      "description": "Provided with a list of mock student data, added pagination and the ability to filter results through a search bar.",
+      "technologies": ["JavaScript", "HTML", "CSS"],
+      "live_link": "https://claudiar1.github.io/list-pagination-and-filtering-project/#",
+      "github_link": "https://github.com/claudiar1/list-pagination-and-filtering-project",
+      "landing_img_url": "/static/images/proj-2-landing.png",
+      "image_urls": [
+        "/static/images/proj-2-view1.png",
+        "/static/images/proj-2-view2.png"
+      ]
+    },
+    {
+      "id": "2",
+      "project_name": "Interactive Registration Form",
+      "description": "Added interactivity and validation to an HTML form for a mock conference.",
+      "technologies": ["JavaScript", "HTML", "CSS"],
+      "live_link": "https://claudiar1.github.io/interactive-form-project/",
+      "github_link": "https://github.com/claudiar1/interactive-form-project",
+      "landing_img_url": "/static/images/proj-3-landing.png",
+      "image_urls": [
+        "/static/images/proj-3-view1.png",
+        "/static/images/proj-3-view2.png",
+        "/static/images/proj-3-view3.png"
+      ]
+    },
+    {
+      "id": "3",
+      "project_name": "The Office Phrase Hunter Game",
+      "description": "Utilized OOP principles to create a phrase hunter game. On 'Start Game,' a phrase from The Office is randomly generated. User has 5 lives, represented by hearts at the bottom of the viewport, and loses a life for each incorrectly guessed letter. Once user is either out of lives or has succesfully guessed the letter, they're given a 'Game Over' screen and the ability to start the game over again.",
+      "technologies": ["JavaScript", "HTML", "CSS"],
+      "live_link": "https://claudiar1.github.io/the-office-game-show-app/",
+      "github_link": "https://github.com/claudiar1/oop-game-show-app",
+      "landing_img_url": "/static/images/proj-4-landing.png",
+      "image_urls": [
+        "/static/images/proj-4-view1.png",
+        "/static/images/proj-4-view2.png",
+        "/static/images/proj-4-view3.png"
+      ]
+    },
+    {
+      "id": "4",
+      "project_name": "Random User API Request",
+      "description": "Created a custom request to the public Random User API, and then worked with returned data to render both a card and a pop up modal window for each user.",
+      "technologies": ["JavaScript", "HTML", "CSS", "JSON"],
+      "live_link": "https://claudiar1.github.io/public-api-request-project/",
+      "github_link": "https://github.com/claudiar1/public-api-request-project",
+      "landing_img_url": "/static/images/proj-5-landing.png",
+      "image_urls": ["/static/images/proj-5-view1.png"]
+    }
+  ]
+}
